@@ -1,0 +1,25 @@
+id_interagivel;id_item_req;id_item_dado;pre_01;pre_02;pre_03;dur_01;dur_02;dur_03;pos_01;pos_02;pos_03
+escola;;recalque;Aprendeu? Não?;Imbecil!;Você ganhou: <i>RECALQUE</i>.;;;;;;
+escritório;;procrastinação;Trabalha, trabalha, trabalha...;Não trabalho, não trabalho, não trabalho...;Você ganhou: <i>PROCRASTINAÇÃO</i>.;;;;;;
+hospital;;paranóia;Você não parece bem, espere aqui...;O que que eu tenho?;Você ganhou: <i>PARANÓIA</i>.;;;;;;
+templo;;seriedade;Silêncio, preste atenção.;…;Você ganhou: <i>SERIEDADE</i>.;;;;;;
+delegacia;;autoridade;Olha o desacato!;Vai pesar pra você!;Você ganhou: <i>AUTORIDADE</i>.;;;;;;
+paleteria;;arrogância;Paletas mexicanas gourmet...;E-X-C-L-U-S-I-V-A-S!;Você ganhou: <i>ARROGÂNCIA</i>.;;;;;;
+imobiliária;;deslocamento;Aluguel subiu, algum problema?;;Você ganhou: <i>DESLOCAMENTO</i>.;;;;;;
+shopping;;compulsão;Coooompreeee...;Cooompreeeeee!;Você ganhou: <i>COMPULSÃO</i>.;;;;;;
+caranguejo;procrastinação;vontade;Traga sua <i>PROCRASTINAÇÃO</i>.;;;Agora é a hora!;Você ganhou: <i>VONTADE</i>.;;;;
+pelicano;arrogância;satisfação;Eu me alimento de <i>ARROGÂNCIA</i>.;;;Chega de coisas vãs.;Você ganhou: <i>SATISFAÇÃO</i>.;;;;
+sapo;autoridade;procedimento;Quero mais <i>AUTORIDADE</i>.;;;Humildade, lealdade...;Você ganhou: <i>PROCEDIMENTO</i>.;;;;
+pica-pau;deslocamento;fortaleza;Preciso de <i>DESLOCAMENTO</i>.;;;Do movimento, a calma.;Você ganhou: <i>FORTALEZA</i>.;;;;
+coelho;seriedade;serenidade;Precido de <i>SERIEDADE</i>.;;;A verdadeira calma.;Você ganhou: <i>SERENIDADE</i>.;;;;
+ornitorrinco;recalque;autoestima;Eu me alimento de <i>RECALQUE</i>.;;;Beijo no ombro!;Você ganhou: <i>AUTOESTIMA</i>.;;;;
+lêmure;paranóia;perspectiva;Traga sua <i>PARANÓIA</i>!;;;Vejo tudo ao meu redor.;Você ganhou: <i>PERSPECTIVA</i>.;;;;
+bicho-preguiça;compulsão;conforto;Traga sua <i>COMPULSÃO</i>.;;;Fique de boas.;Você ganhou: <i>CONFORTO</i>.;;;;
+gavião;procedimento;;Cadê o <i>PROCEDIMENTO</i>?;;;Vai dar tudo certo.;;;;;
+formiga;vontade;;Sem <i>VONTADE</i>, nada feito.;;;Adiante, além.;;;;;
+hipopótamo;fortaleza;;Compaixão é <i>FORTALEZA</i>.;;;Nem foi tempo perdido...;;;;;
+peixe-boi;serenidade;;Busco a <i>SERENIDADE</i>.;;;Respire fundo.;;;;;
+peixe;perspectiva;;Procuro uma nova <i>PERSPECTIVA</i>.;;;Deixe o olhar livre.;;;;;
+lhama;conforto;;Você tem algum <i>CONFORTO</i> para me dar?;;;Transcenda o confortável.;;;;;
+gato;autoestima;;<i>AUTOESTIMA</i> nunca sobra.;;;Esqueça de si.;;;;;
+orangotango;satisfação;;I can't get no...;;;You what you need...;;;;;
